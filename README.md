@@ -1,1 +1,1 @@
-This assignment focused on adding CSS to alter the background-color of the last three div elememts in the index.html file. 
+For this project, I learned to reset the CSS style sheet, how to organize and write clean code, and change background colors while getting gaining skillwork with GitHub. I fixed a couple of errors that came with the forked project, as part of the paramters of the assignment.
